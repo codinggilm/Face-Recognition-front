@@ -6,7 +6,7 @@ A full stack React app capable of detecting faces in any picture you submit. Use
 
 ## Setup/Installation
 To view the app, click https://face-recognition-frontend.herokuapp.com/ or copy the link to your browser and load it. 
-Please register before using the application - you don't need an existing email address and you are welcome to come up with any address of your choice (such as hello@hello.com).
+Please register before using the application - you don't need an existing email address and you are welcome to come up with any address of your choice (such as anything@anything.com).
 
 ## Features
 *	Face detection in pictures
