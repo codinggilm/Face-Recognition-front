@@ -26,3 +26,5 @@ Please register before using the application - you don't need an existing email 
 * AJAX
 * JSON
 * BCRYPT
+* POSTMAN
+* KNEX
